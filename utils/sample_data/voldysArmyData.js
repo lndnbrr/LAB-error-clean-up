@@ -5,8 +5,6 @@ import studentAreas from '../studentArea';
 
 const voldysArmy = []; // starts as an empty array
 
-// MUST BE ON MAIN.JS
-
 const events = () => {
   // get form on the DOM on button click
   document.querySelector('#start-sorting').addEventListener('click', () => {

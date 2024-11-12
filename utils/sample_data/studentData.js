@@ -64,4 +64,3 @@ const sortStudent = (e) => {
 };
 
 export { students, studentsOnDom, sortStudent };
-export default sortStudent;
